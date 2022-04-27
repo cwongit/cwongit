@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Callum (@cwongit)
-- 👀 I’m interested in science and programming.
-- 🌱 I’m currently learning data science and physics.
+- 👀 I’m interested in stuff.
 
 <!---
 cwongit/cwongit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
